@@ -2,7 +2,13 @@
 
 _This project have been created by [EKinux](https://github.com/EhsanKinux) and [Sina](https://github.com/Sinac0de)_
 
-This project was bootstrapped with <img src="{https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white}"/> <img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}"/> [Create React App](https://github.com/facebook/create-react-app) <img src="{https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white}"/> <img src="{https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white}"/> <img src="{https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white}"/>
+This project was bootstrapped with 
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+[Create React App](https://github.com/facebook/create-react-app)
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
 
 ## Available Scripts
 
